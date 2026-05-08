@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Vinamratha 👋</h1>
+<h1 align="center">Hi, I'm Vinamratha Jagirdar 👋</h1>
 
 <p align="center">
-  <em>MAS Data Science @ IIT Chicago &nbsp;|&nbsp; ML · AI · Big Data · Analytics</em>
+  <em>MAS Data Science @ IllinoisTech, Chicago &nbsp;|&nbsp; ML · AI · Big Data · Analytics</em>
 </p>
 
 ---
 
 # 💫 About Me:
-I'm a Data Science graduate student at Illinois Institute of Technology, Chicago, with hands-on experience across machine learning, deep learning, NLP, big data pipelines, and AI engineering. I enjoy working on the full spectrum — from raw data and feature engineering all the way to deployed models and dashboards.<br><br>- 🎓 MAS in Data Science — Illinois Institute of Technology, Chicago (GPA: 3.33)<br>- 💼 Graduate Assistant — CLI, IIT Chicago<br>- 🤖 Former Software (AI) Engineer Intern — built LLM + RAG pipelines in production<br>- 🔍 Interests: ML/DL, NLP, LLMs, Big Data, Statistical Modelling<br>- 📍 Chicago, IL<br>- 🚀 Actively seeking Summer 2026 internship opportunities
+I'm a Data Science graduate student at Illinois Institute of Technology, Chicago, with hands-on experience across machine learning, deep learning, NLP, big data pipelines, and AI engineering. I enjoy working on the full spectrum — from raw data and feature engineering all the way to deployed models and dashboards.<br><br>- 🎓 MAS in Data Science — Illinois Institute of Technology, Chicago <br>- 💼 Graduate Assistant — CLI, IIT Chicago<br>- 🤖 Former Software (AI) Engineer Intern — built LLM + RAG pipelines in production<br>- 🔍 Interests: ML/DL, NLP, LLMs, Big Data, Statistical Modelling<br>- 📍 Chicago, IL<br>- 🚀 Actively seeking Summer 2026 internship opportunities
 
 ---
 
