@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vinamratha Jagirdar 👋</h1>
 
 <p align="center">
-  <em>MAS Data Science @ IllinoisTech, Chicago &nbsp;|&nbsp; ML · AI · Big Data · Analytics</em>
+  <em>MAS Data Science @ IllinoisTech, Chicago &nbsp;|&nbsp; ML · AI · Data Science · Data Analytics</em>
 </p>
 
 ---
